@@ -1,4 +1,3 @@
-from tkinter.tix import Y_REGION
 import numpy as np
 from logistic_regression.exception import LogisticRegressionException
 from logistic_regression.logger import logging
